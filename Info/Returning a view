@@ -1,0 +1,13 @@
+Methods:
+
+Redirect()
+Example: return redirect(/bears)
+Redirect using / like the url. You always start at the root of the website.
+
+view()
+Example: return view('foldername.filename')
+Redirect from the views folder/map.
+
+Redirect->route()
+Example: Redirect->route('name')
+Redirect by using a name from the routes.
