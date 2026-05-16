@@ -24,6 +24,9 @@ This is done automatically when both the view and the controller have the same n
 To connect it manually, go to the render() function of the controller and use return view(name). The root is always the 'resources/views' folder. so say you want to connect it to form.blade.php inside of livewire folder inside of views do this:
 'return view('livewire.form') like you would in a controller.
 
+## Loading in a livewire view
+Simply use @livewire('name').
+Example: @livewire('bear-index')
 
 ## !!!Important!!!
 This happened to me too. If php artisan make:livewire name does only create a component in your view folder but never makes the "controller"/a file inside app/http/livewire,
