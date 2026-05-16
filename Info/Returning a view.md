@@ -1,4 +1,4 @@
-Methods:
+## Methods to return a view
 
 Redirect()
 Example: return redirect(/bears)
