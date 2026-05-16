@@ -19,3 +19,6 @@ git push (This pushes your changes to the branch/repo, quite self-explanatory.) 
 
 These steps should make sure that you have added all of the items in your project to your Github Repository.
 If not, then idk. This worked for me.
+
+### Important
+When you create an empty github repository, it should show you the same steps, except for the final steps I gave for when your branch still is empty. I recommend to follow github's steps first, as that is more clear and straight forward for most people.
