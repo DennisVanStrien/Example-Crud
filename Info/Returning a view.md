@@ -11,4 +11,4 @@ Redirect from the views folder/map. <br>
 <br>
 Redirect->route() <br>
 Example: Redirect->route('name') <br>
-Redirect by using a name from the routes. <br>
+Redirect by using a name from the routes. (A.k.a using the name you gave to a route inside of web.php) <br>
