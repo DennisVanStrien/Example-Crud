@@ -13,8 +13,9 @@ This creates a livewire layout, mostly the same as a normal layout but it includ
 ## Creating the "Controller"
 Command: php artisan make:livewire Name
 Example: php artisan make:livewire BearIndex
-You can find the component at resources/views/components.(Not sure if thats automatically made too) and you can find views inside of resources/views/components. In my case with volt neither got made, so I don't know which of the two is automatically generated while using a command. In my other school project it made a view and a controller using the command. With the view found inside resources/views/livewire and the controller inside app/Livewire. In this project I will be 
+You can find the component at resources/views/components.(Not sure if thats automatically made too) and you can find views inside of resources/views/components. In my case with volt neither got made, so I don't know which of the two is automatically generated while using a command. In my other school project it made a view and a controller using the command. With the view found inside resources/views/livewire and the controller inside app/Livewire. 
 You can find the "Controller" in app/Livewire. Think of it like this is the "Controller" of your component.
+In this project I will use livewire views instead of components.
 
 
 ## How is the controller connected to the livewire view/component?
