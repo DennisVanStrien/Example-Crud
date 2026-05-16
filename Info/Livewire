@@ -1,0 +1,13 @@
+Documentation: https://livewire.laravel.com/docs/4.x/installation
+
+Creating a layout
+Command: php artisan livewire:layout
+This creates a livewire layout, mostly the same as a normal layout but it includes "@livewireStyles" and "@livewireScripts".
+@livewireStyles will make sure the Livewire CSS is prepared and works correctly. This is required to load in the styling livewire requires.
+@livewireScripts will make sure the Livewire JavaScript is prepared and function correctly. This is required for actios such as clicking, opening modals, submitting forms and live updates.
+
+
+Creating a component
+Command: php artisan make:livewire Name
+Example: php artisan make:livewire BearIndex
+You can find the component at resources/views/components. Think of it like this is your "view" but for livewire.
