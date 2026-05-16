@@ -2,6 +2,7 @@ Documentation: https://livewire.laravel.com/docs/4.x/installation
 
 ## Quick heads up before reading this
 I encountered bugs while trying to make this and writing it out, so not everything might be the same. But most should, I hope this helps you enough to understand it. You can always ask AI to explain you how things work, or google it.
+I recommend to use Laravel Herd and use a Livewire starter kit if you plan on using livewire in your project.
 
 ## Creating a layout
 Command: php artisan livewire:layout
