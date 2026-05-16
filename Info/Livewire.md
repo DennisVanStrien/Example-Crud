@@ -15,7 +15,7 @@ You can find the component at resources/views/components. Think of it like this 
 
 
 
-##!!!Important!!!##
+## !!!Important!!!
 This happened to me too. If php artisan make:livewire name does only create a component in your view folder but never makes the "controller"/a file inside app/http/livewire,
 then you might have installed "Livewire volt" instead of "Livewire". If so, your component should have a "⚡" emoji infront of it.
 Livewire volt has the "Controller" logic and "view" logic combined into one. You can use this if you'd like, but in this file I'll explain regular Livewire.
