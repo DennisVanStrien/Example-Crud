@@ -1,6 +1,6 @@
 ## using github via the terminal
 
-git status - view the files that you've changed.
+git status - view the files that you've changed. <br>
 git add . - Stage all changes
 git commit -m "Message" - adds a message to your commit (To push your commit needs a message)
 git push - sends the commit to the git
