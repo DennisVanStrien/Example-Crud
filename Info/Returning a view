@@ -2,7 +2,8 @@ Methods:
 
 Redirect()
 Example: return redirect(/bears)
-Redirect using / like the url. You always start at the root of the website.
+Redirect using / like the url. You always start at the root of the website, so for example github.com is your starting point.
+if you put redirect(/bears) you'll end up at github.com/bears.
 
 view()
 Example: return view('foldername.filename')
