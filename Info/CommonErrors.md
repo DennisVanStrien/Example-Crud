@@ -1,4 +1,4 @@
-##num errors
+## num errors
 
 400 - Bad Request
 This error means that the server cannot understand or process the request because of an error on the client side. This most likely means the data sent by the browser is invalid.
