@@ -31,13 +31,6 @@ Vervolgens komt er een acceptatiecriteria, dit is waar de userstory aan moet vol
 Dit is een checklist waar alle user stories aan moeten voldoen voordat ze afgerond zijn.
 <br>
 
-### Product Backlog
-
-<br>
-
-### Sprint Planning
-
-<br>
 
 ### Scrumbord
 Je gaat ook een scrumbord nodig hebben, deze is erg belangrijk. Hier ga je het hele proces in bijhouden. Je kunt een github project aanmaken met een scrumbord, voeg hier de volgende kolommen in toe:
@@ -48,4 +41,10 @@ Je gaat ook een scrumbord nodig hebben, deze is erg belangrijk. Hier ga je het h
 - In Review/Testing | Als je iets hebt afgerond zet je het hier neer, test het voordat je het in de done kolom neerzet.
 - Done | Wanneer het klaar is.
 
+<br>
+### Daily standup
+Belangrijk is dat je elke dag voor je gaat werken een Daily Standup doet met je groepje, hier bespreekt iedereen de volgende dingen: <br>
+- Wat heb ik gisteren gedaan? <br>
+- Wat ga ik vandaag doen? <br>
+- Hoe staan we er momenteel voor en gaat het lukken? (Biedt elkaar ook hulp) <br>
 <br>
