@@ -1,0 +1,7 @@
+When you download the project from github from your team, it will probably require you to download certain things.
+For most of my projects these are the steps (Paste these in your terminal):
+- npm install
+- composer install
+- copy .env.example .env
+- php artisan key:generate
+- npm run build
