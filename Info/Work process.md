@@ -26,3 +26,20 @@ Dit is een checklist waar alle user stories aan moeten voldoen voordat ze afgero
 <br>
 
 ### Product Backlog
+
+<br>
+
+### Sprint Planning
+
+<br>
+
+### Scrumbord
+Je gaat ook een scrumbord nodig hebben, deze is erg belangrijk. Hier ga je het hele proces in bijhouden. Je kunt een github project aanmaken met een scrumbord, voeg hier de volgende kolommen in toe:
+- Product Backlog | Hier zet je alle taken in die er zijn.
+- Sprint backlog | Hier zet je alles neer wat je deze sprint doet.
+- Todo | Hier zet je neer wat die dag wordt gedaan.
+- In Progress | Waar iemand mee bezig is.
+- In Review/Testing | Als je iets hebt afgerond zet je het hier neer, test het voordat je het in de done kolom neerzet.
+- Done | Wanneer het klaar is.
+
+<br>
