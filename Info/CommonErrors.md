@@ -22,3 +22,4 @@ This error means that your security token has either expired or is missing. In m
 To fix this make sure your form has a csrf token inside of it ("@csrf").
 A csrf token protects you by prohibiting requests from other sites, making your site more safe.
 When you use Laravel as framework, for protection it will require you to use a @csrf token in your form, else it will give this error.
+Good to know: CSRF stands for Cross-Site Request Forgery.
