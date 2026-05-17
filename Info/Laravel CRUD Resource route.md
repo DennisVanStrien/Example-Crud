@@ -32,4 +32,7 @@ Vervolgens voeg je de route handmatig toe aan je web.php: <br>
 "Route::resource('bears', BearController::class);" (Verander bears met je model name en de controller met de controller name.) <br>
  <br>
 Dat zou alles moeten zijn. Je kan ook nog checken of alles goed staat. Dit kan met het volgende commando: <br>
-"php artisan route:list" dit zou alle 7 actieve routes in je terminal moeten laten zien. <br>
+<br>
+"php artisan route:list"
+<br>
+dit zou alle 7 actieve routes in je terminal moeten laten zien. <br>
