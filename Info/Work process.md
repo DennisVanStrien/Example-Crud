@@ -19,12 +19,13 @@ Hier noteer je alle functionele en niet functionele eisen van de klant. Een soor
 
 ### User stories met acceptatie criteria
 Voor alle eisen maak je een userstory.
-Voorbeeld template van een user story is:
-Als ... (persoon)
-Wil ik ... (actie)
-Zodat ik ... (resultaat)
+Voorbeeld template van een user story is: <br>
+Als ... (persoon) <br>
+Wil ik ... (actie) <br>
+Zodat ik ... (resultaat) <br>
 <br>
 Vervolgens komt er een acceptatiecriteria, dit is waar de userstory aan moet voldoen. Dit is per user story.
+<br>
 
 ### Definition of Done
 Dit is een checklist waar alle user stories aan moeten voldoen voordat ze afgerond zijn.
