@@ -49,3 +49,13 @@ Belangrijk is dat je elke dag voor je gaat werken een Daily Standup doet met je 
 - Wat ga ik vandaag doen? <br>
 - Hoe staan we er momenteel voor en gaat het lukken? (Biedt elkaar ook hulp) <br>
 <br>
+
+### erd
+Hierin zet je de structuur van je database
+
+
+### wireframes
+Een schets van je website
+
+### Flowchart met swimming lanes
+Hierin zet je een paar situatie voorbeelden in
