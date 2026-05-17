@@ -23,7 +23,9 @@ Route::resource('bears', BearController::class); <br>
 
 ### Hoe doe je dit?
 Gebruik het volgende commando: <br>
+<br>
 "php artisan make:model Bear -mcr" (Verander Bear met de model name van jouw model) <br>
+<br>
 Dit commando maakt je Model, de Migratie voor je model en een Controller die direct is gevuld met de 7 lege CRUD-functies. <br>
 **Fun fact: MCR staat voor Model, Migration, Resource.** <br>
 Vervolgens voeg je de route handmatig toe aan je web.php: <br>
