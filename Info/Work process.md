@@ -42,6 +42,7 @@ Je gaat ook een scrumbord nodig hebben, deze is erg belangrijk. Hier ga je het h
 - Done | Wanneer het klaar is.
 
 <br>
+
 ### Daily standup
 Belangrijk is dat je elke dag voor je gaat werken een Daily Standup doet met je groepje, hier bespreekt iedereen de volgende dingen: <br>
 - Wat heb ik gisteren gedaan? <br>
