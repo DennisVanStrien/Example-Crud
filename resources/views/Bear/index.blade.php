@@ -11,7 +11,7 @@
     <h1>Bear</h1>
     <p> Dit is de index van de bear. Deze hebben GEEN relaties. </p>
 
-    @auth
+    @auth <!-- Here we check what value the "role" enum of a user has. Then we display a message based on that value. -->
         @if(auth()->user()->role === 'resident')
             <p>je bent een resident</p>
         @elseif(auth()->user()->role === 'caretaker')
@@ -20,6 +20,7 @@
             <p>je bent een contact_person</p>
         @endif
     @endauth
+
     <img src="img/bear.png" alt="Bear Image" class="w-64 h-auto mb-4"> {{-- This is an example of how to add an image. You can replace the src with the path to your own image. You always start from the public map. --}}
     @if ($bears->isNotEmpty()) {{-- We check if the there are any bears. If there are, we display them. Example: If you did not have this check, and you would do the foreach while there are no bears, the website would show an error. --}}
 
